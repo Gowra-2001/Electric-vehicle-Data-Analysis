@@ -7,10 +7,10 @@ To analyze the adoption and distribution of electric vehicles in the U.S. by eva
 - <a href="https://github.com/Gowra-2001/Electric-vehicle-DataAnalysis/commit/0c0fd0321a1c7d008088bbf3c518e5c753076765">Dataset</a>
 
 ## Key KPIs
-Total Vehicles - 150,413 
-Avg Electric Range - 67.83 miles 
-Total BEV Vehicles - 116,745 (77.6%) 
-Total PHEV Vehicles - 33,668 (22.4%) 
+- Total Vehicles - 150,413.
+- Avg Electric Range - 67.83 miles.
+- Total BEV Vehicles - 116,745 (77.6%). 
+- Total PHEV Vehicles - 33,668 (22.4%). 
 
 ## Visualizations
 1. Total Vehicles by Model Year  
